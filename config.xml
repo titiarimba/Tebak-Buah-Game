@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://com.TitiArimba.TebakBuah" version="1.0.0" viewmodes="maximized">
+	<tizen:application required_version="2.2"/>
+	<author href="http://dicoding.com" email="rstitijkl@gmail.com">Titi Arimba</author>
+	<content src="index.html" />
+	<description>Latihan 3</description>
+	<icon src="icon-128.png" width="128" height="128" />
+	<name>Tebak Buah</name>
+	<tizen:setting context-menu="disable" hwkey-event="enable" background-support="disable" encryption="disable" install-location="auto" screen-orientation="portrait" />
+	<feature name="http://tizen.org/feature/screen.size.all"/>
+</widget>

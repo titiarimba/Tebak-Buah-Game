@@ -1,0 +1,33 @@
+{
+   "c2array": true,
+   "size": [9,5,1],
+   "data": [
+      [
+         [0],["Anggur"],["Salak"],["Kacang"],[1]
+      ],
+      [
+         [1],["Kacang"],["Cabai"],["Anggur"],[2]
+      ],
+      [
+         [2],["Anggur"],["Salak"],["Ceri"],[3]
+      ],
+      [
+         [3],["Anggur"],["Jeruk"],["Kacang"],[2]
+      ],
+      [
+         [4],["Lemon"],["Salak"],["Kacang"],[1]
+      ],
+      [
+         [5],["Tomat"],["Salak"],["Pir"],[3]
+      ],
+      [
+         [6],["Pisang"],["Salak"],["Anggur"],[1]
+      ],
+      [
+         [7],["Pir"],["Tomat"],["Ceri"],[2]
+      ],
+      [
+         [8],["Cabai"],["Tomat"],["Wortel"],[3]
+      ]
+   ]
+}
